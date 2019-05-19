@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ochoohiejo.murkraftwerk.fail/sitemap.xml
